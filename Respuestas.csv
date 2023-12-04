@@ -1,0 +1,37 @@
+Fecha ,Condiciones del Clima,Hora de salida:,Hora de llegada al Tecnológico:,Numero de la unidad:,Marca de la Combi,Numero de Mujeres que abordan:,Numero de Hombres que abordan:,¿Cuántos son estudiantes?,¿Hubo música durante el transporte?,Duracion del viaje
+09/11/2023,Lluvia,08:00 a.m,08:45 a.m,Ruta 5,Nissan,6,4,4,Si,45 Minutos
+09/11/2023,Lluvia,09:00 a.m,09:45 a.m,Ruta 20,Toyota,5,3,7,No,45 Minutos
+09/11/2023,Lluvia,10:00 a.m,10:45 a.m,Ruta 10,Toyota,5,3,8,No,45 Minutos
+09/11/2023,Lluvia,11:00 a.m,11:45 a. m,Ruta 9,Nissan,6,4,9,Si,45 Minutos
+10/11/2023,Lluvia,09:00 a. m.,09:45 a. m.,Ruta 2,Nissan,4,5,7,No,45 Minutos
+10/11/2023,Lluvia,10:00 a. m.,10:45 a. m.,Ruta 5,Toyota,4,8,3,Si,45 Minutos
+10/11/2023,Lluvia,12:00 p. m.,12:45 p. m.,Ruta 10,Toyota,3,4,4,No,45 Minutos
+10/11/2023,Lluvia,01:00 p. m.,01:45 p. m.,Ruta 20,Nissan,5,3,3,No,45 Minutos
+11/11/2023,Lluvia,11:00 a. m.,11:45 a. m.,Ruta 2,Nissan,5,3,3,Si,45 Minutos
+11/11/2023,Lluvia,12:00 p. m.,12:45 p. m.,Ruta 5,Toyota,6,4,7,No,45 Minutos
+11/11/2023,Lluvia,01:00 p. m.,01:45 p. m.,Ruta 9,Toyota,4,5,3,No,45 Minutos
+11/11/2023,Lluvia,02:00 p. m.,02:45 p. m.,Ruta 10,Nissan,4,8,1,Si,45 Minutos
+13/11/2023,Nublado,01:00 p. m.,01:45 p. m.,Ruta 5,Nissan,3,3,8,Si,45 Minutos
+13/11/2023,Nublado,02:00 p. m.,02:45 p. m.,Ruta 20,Toyota,5,4,9,No,45 Minutos
+13/11/2023,Nublado,03:00 p. m.,03:45 p. m.,Ruta 10,Toyota,5,5,7,Si,45 Minutos
+13/11/2023,Nublado,04:00 p. m.,04:45 p. m.,Ruta 9,Nissan,6,8,3,Si,45 Minutos
+16/11/2023,Nublado,08:00 a.m,08:45 a.m,Ruta 2,Nissan,3,4,4,No,45 Minutos
+16/11/2023,Nublado,09:00 a.m,09:45 a.m,Ruta 5,Toyota,5,3,3,No,45 Minutos
+16/11/2023,Nublado,10:00 a.m,10:45 a.m,Ruta 9,Toyota,5,3,3,Si,45 Minutos
+16/11/2023,Nublado,11:00 a.m,11:45 a. m,Ruta 10,Nissan,6,4,7,No,45 Minutos
+17/11/2023,Nublado,09:00 a. m.,09:45 a. m.,Ruta 5,Nissan,4,5,3,No,45 Minutos
+17/11/2023,Nublado,10:00 a. m.,10:45 a. m.,Ruta 20,Toyota,4,8,1,Si,45 Minutos
+17/11/2023,Nublado,12:00 p. m.,12:45 p. m.,Ruta 10,Toyota,3,3,8,Si,45 Minutos
+17/11/2023,Nublado,01:00 p. m.,01:45 p. m.,Ruta 9,Nissan,5,4,9,No,45 Minutos
+18/11/2023,Lluvia,11:00 a. m.,11:45 a. m.,Ruta 5,Toyota,5,3,3,Si,45 Minutos
+18/11/2023,Lluvia,12:00 p. m.,12:45 p. m.,Ruta 9,Toyota,6,4,7,No,45 Minutos
+18/11/2023,Lluvia,01:00 p. m.,01:45 p. m.,Ruta 10,Nissan,4,5,3,No,45 Minutos
+18/11/2023,Lluvia,02:00 p. m.,02:45 p. m.,Ruta 20,Toyota,4,8,1,Si,45 Minutos
+23/11/2023,Lluvia,01:00 p. m.,01:45 p. m.,Ruta 2,Nissan,5,3,3,Si,45 Minutos
+23/11/2023,Lluvia,02:00 p. m.,02:45 p. m.,Ruta 5,Toyota,6,4,7,No,45 Minutos
+23/11/2023,Lluvia,03:00 p. m.,03:45 p. m.,Ruta 9,Toyota,4,5,3,No,45 Minutos
+23/11/2023,Lluvia,04:00 p. m.,04:45 p. m.,Ruta 10,Nissan,4,8,1,Si,45 Minutos
+24/11/2023,Soleado,09:00 a. m.,09:45 a. m.,Ruta 2,Nissan,4,5,3,No,45 Minutos
+24/11/2023,Soleado,10:00 a. m.,11:45 a. m.,Ruta 5,Toyota,4,8,1,Si,45 Minutos
+24/11/2023,Soleado,12:00 p. m.,12:45 p. m.,Ruta 10,Toyota,3,3,8,Si,45 Minutos
+24/11/2023,Soleado,01:00 p. m.,01:45 p. m.,Ruta 20,Nissan,5,4,9,No,45 Minutos
